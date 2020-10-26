@@ -4,5 +4,5 @@ Feel free to adjust coordinates to match your EEG system.
 As it is presented here, the script requires a flat input array with dimensions [number of channels, 1]
 This array must be called EEG.
 
-Tool was developed by Luca Zugic
-For further information, please contact me through my github or email LZugic@uclan.ac.uk
+Tool was developed by Luca Zugic for the Social Interaction and Performance Science Lab at the University of Central Lancashire.
+For further information, please contact me through my github page or email at lucazugic@gmail.com
